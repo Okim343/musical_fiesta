@@ -1,6 +1,6 @@
-@Unpublished{DOE2024,
-    Title  = "EXAMPLE PROJECT",
-    Author = "JANE DOE",
+@Unpublished{Truzzi2024,
+    Title  = "Lets have some party with music!",
+    Author = "Enrico Truzzi",
     Year   = "2024",
-    Url    = "https://github.com/opensourceeconomics/econ-project-templates",
+    Url    = "https://github.com/Okim343/musical_fiesta",
 }

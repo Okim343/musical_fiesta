@@ -4,7 +4,7 @@
 
 [project]
 name = "musical_fiesta"
-description = "Template for reproducible research projects in economics"
+description = "Enrico Test Project wow very cool"
 requires-python = ">=3.11"
 dynamic = ["version"]
 keywords = [
@@ -21,10 +21,10 @@ classifiers = [
     "Programming Language :: Python :: 3 :: Only",
 ]
 authors = [
-    { name = "JANE DOE", email = "janedoe@example-university.com" },
+    { name = "Enrico Truzzi", email = "janedoe@example-university.com" },
 ]
 maintainers = [
-    { name = "JANE DOE", email = "janedoe@example-university.com" },
+    { name = "Enrico Truzzi", email = "janedoe@example-university.com" },
 ]
 
 [project.readme]
@@ -35,10 +35,10 @@ content-type = "text/markdown"
 text = "MIT"
 
 [project.urls]
-Changelog = "https://github.com/OpenSourceEconomics/econ-project-templates"
-Documentation = "https://github.com/OpenSourceEconomics/econ-project-templates"
-Github = "https://github.com/OpenSourceEconomics/econ-project-templates"
-Tracker = "https://github.com/OpenSourceEconomics/econ-project-templates/issues"
+Changelog = "https://github.com/Okim343/musical_fiesta"
+Documentation = "https://github.com/Okim343/musical_fiesta"
+Github = "https://github.com/Okim343/musical_fiesta"
+Tracker = "https://github.com/Okim343/musical_fiesta/issues"
 
 # ======================================================================================
 # Build system configuration
